@@ -14,7 +14,7 @@
 ## Installation
     
 - [Set-Up](#Set-Up)
-- [Download file](#Download file)
+- [Download file](#download-file)
 
 ### Set-Up
 
@@ -65,7 +65,8 @@
  6. Type git clone, and then paste the URL you copied earlier.
 
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-7. Press Enter to create your local clone.
+
+ 7. Press Enter to create your local clone.
 
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Cloning into `Spoon-Knife`...
@@ -89,9 +90,9 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 In this version release, we will check the following issues:
 
 	- Editing and deleting comments
-	- Adding images.
-  - Writing articles.
-	- Adding comments.
+	- Adding images
+  	- Writing articles
+	- Adding comments
 	- Tagging.
 ---
 
@@ -106,17 +107,21 @@ In this version release, we will check the following issues:
 
 ---
 
-## Support
+## Authors
 
 Reach out to us at one of the following places!
 
+👤 **Hillary Kiptoo**
 - LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
 - Github: [@imhilla](https://github.com/imhilla)
 - Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
 
+👤 **Hasan Özovalı**
 - LinkedIn at [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
 - Twitter at [Hasan Ozovali](https://twitter.com/ozovalihasan)
 - Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
+- Mail: [ozovalihasan@gmail.com](ozovalihasan@gmail.com)
+
 ---
 
 ## Contributing 🤝
@@ -132,6 +137,10 @@ Feel free to check the [issues page](./issues/).
 - Thanks to Microverse for its Support!
 
 ---
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## License
 
