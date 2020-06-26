@@ -14,7 +14,7 @@
 ## Installation
     
 - [Set-Up](#Set-Up)
-- [Download file](#Download file)
+- [Download file](#download-file)
 
 ### Set-Up
 
@@ -65,9 +65,11 @@
  6. Type git clone, and then paste the URL you copied earlier.
 
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-7. Press Enter to create your local clone.
+
+ 7. Press Enter to create your local clone.
 
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 > Cloning into `Spoon-Knife`...
 
 > remote: Counting objects: 10, done.
@@ -77,23 +79,24 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 
 > Unpacking objects: 100% (10/10), done.
+```
 
 
 - Now we can now use the codes
 
-## Congratulation! Now You Can Start Using the Blog App
----
+### Congratulation! Now You Can Start Using the Blog App
+
 
 ## Features
 
 In this version release, we will check the following issues:
 
-	- Editing and deleting comments
-	- Adding images.
-  - Writing articles.
-	- Adding comments.
-	- Tagging.
----
+- Editing and deleting comments
+- Adding images
+- Writing articles
+- Adding comments
+- Tagging
+
 
 ## Built With
 
@@ -104,34 +107,36 @@ In this version release, we will check the following issues:
 - GitHub
 - Shields.io
 
----
-
-## Support
+## Authors
 
 Reach out to us at one of the following places!
 
+👤 **Hillary Kiptoo**
 - LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
 - Github: [@imhilla](https://github.com/imhilla)
 - Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
 
+👤 **Hasan Özovalı**
 - LinkedIn at [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
 - Twitter at [Hasan Ozovali](https://twitter.com/ozovalihasan)
 - Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
----
+- Mail: [ozovalihasan@gmail.com](ozovalihasan@gmail.com)
+
 
 ## Contributing 🤝
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](./issues/).
----
 
 ## Acknowledgments
 
 - Hat tip to anyone who's code was used
 - Thanks to Microverse for its Support!
 
----
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## License
 
@@ -140,19 +145,3 @@ Feel free to check the [issues page](./issues/).
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 
-## Author
-
-**Hillary Kiptoo**
-
-- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
-- Github: [@imhilla](https://github.com/imhilla)
-- Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
-
-**Hasan Ozovali**
-
-- LinkedIn at [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
-- Twitter at [Hasan Ozovali](https://twitter.com/ozovalihasan)
-- Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
-
-
-Give a ⭐️ if you like this project!
