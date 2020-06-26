@@ -82,19 +82,19 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 - Now we can now use the codes
 
-## Congratulation! Now You Can Start Using the Blog App
----
+### Congratulation! Now You Can Start Using the Blog App
+
 
 ## Features
 
 In this version release, we will check the following issues:
 
-	- Editing and deleting comments
-	- Adding images
-  	- Writing articles
-	- Adding comments
-	- Tagging.
----
+- Editing and deleting comments
+- Adding images
+- Writing articles
+- Adding comments
+- Tagging
+
 
 ## Built With
 
@@ -104,8 +104,6 @@ In this version release, we will check the following issues:
 - Bash
 - GitHub
 - Shields.io
-
----
 
 ## Authors
 
@@ -122,21 +120,17 @@ Reach out to us at one of the following places!
 - Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
 - Mail: [ozovalihasan@gmail.com](ozovalihasan@gmail.com)
 
----
 
 ## Contributing 🤝
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](./issues/).
----
 
 ## Acknowledgments
 
 - Hat tip to anyone who's code was used
 - Thanks to Microverse for its Support!
-
----
 
 ## Show your support
 
