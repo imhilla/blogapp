@@ -145,19 +145,3 @@ Give a ⭐️ if you like this project!
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 
-## Author
-
-**Hillary Kiptoo**
-
-- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
-- Github: [@imhilla](https://github.com/imhilla)
-- Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
-
-**Hasan Ozovali**
-
-- LinkedIn at [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
-- Twitter at [Hasan Ozovali](https://twitter.com/ozovalihasan)
-- Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
-
-
-Give a ⭐️ if you like this project!
