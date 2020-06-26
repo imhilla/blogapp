@@ -69,6 +69,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
  7. Press Enter to create your local clone.
 
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 > Cloning into `Spoon-Knife`...
 
 > remote: Counting objects: 10, done.
@@ -78,6 +79,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 
 > Unpacking objects: 100% (10/10), done.
+```
 
 
 - Now we can now use the codes
