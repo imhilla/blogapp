@@ -1,10 +1,8 @@
 # Hillary Kiptoo and Hasan Ozovali (Blog-App) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Dandush03/capstone-build-linter)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 ![GitHub followers](https://img.shields.io/github/followers/imhilla?label=imhilla&style=social)
-![Twitter URL](https://img.shields.io/twitter/url?label=hillarykiptoo&style=social&url=https%3A%2F%2Ftwitter.com%2Fhillary)
-
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-![GitHub followers](https://img.shields.io/github/followers/imhilla?label=imhilla&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=hillarykiptoo&style=social&url=https%3A%2F%2Ftwitter.com%2Fhillary) [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+![GitHub followers](https://img.shields.io/github/followers/ozovalihasan?label=Hasan&style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?label=ozovalihasan&style=social&url=https%3A%2F%2Ftwitter.com%2Fhasan)
 
 > This is a Microverse Ruby and Rails Project
@@ -92,7 +90,7 @@ In this version release, we will check the following issues:
 
 	- Editing and deleting comments
 	- Adding images.
-  - Writing articles
+  - Writing articles.
 	- Adding comments.
 	- Tagging.
 ---
@@ -112,13 +110,13 @@ In this version release, we will check the following issues:
 
 Reach out to us at one of the following places!
 
-- LinkedIn at [Hillary Odhiambo](https://www.linkedin.com/in/hillarykiptoo)
-- Twitter at [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
+- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
 - Github: [@imhilla](https://github.com/imhilla)
+- Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
 
-- LinkedIn at [Hillary Odhiambo](https://www.linkedin.com/in/daniel-laloush-0a7331a9)
-- Twitter at [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
-- Github: [@ozovalihasan](https://github.com/ozovalihasan)
+- LinkedIn at [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
+- Twitter at [Hasan Ozovali](https://twitter.com/ozovalihasan)
+- Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
 ---
 
 ## Contributing 🤝
@@ -146,15 +144,15 @@ Feel free to check the [issues page](./issues/).
 
 **Hillary Kiptoo**
 
-- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/daniel-laloush-0a7331a9)
-- Github: [@imhilla](https://github.com/Dandush03)
+- LinkedIn: [Hillary Kiptoo](https://www.linkedin.com/in/hillarykiptoo)
+- Github: [@imhilla](https://github.com/imhilla)
 - Twitter: [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
 
 **Hasan Ozovali**
 
-- LinkedIn at [Hillary Odhiambo](https://www.linkedin.com/in/daniel-laloush-0a7331a9)
-- Twitter at [@hillarykiptoo](https://twitter.com/hillarykiptoo_)
-- Github: [@ozovalihasan](https://github.com/ozovalihasan)
+- LinkedIn at [Hasan Ozovali](https://www.linkedin.com/in/ozovalihasan)
+- Twitter at [Hasan Ozovali](https://twitter.com/ozovalihasan)
+- Github: [ Hasan Ozovali](https://github.com/ozovalihasan)
 
 
 Give a ⭐️ if you like this project!
